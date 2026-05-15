@@ -1,2 +1,2 @@
-Course name: 
-Payment:
+Course name: Data Analytics
+Payment: 39,900
