@@ -1,2 +1,3 @@
 Course name: Data Analytics
 Payment: 39,900
+Centre: Coimbatore
