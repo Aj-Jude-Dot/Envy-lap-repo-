@@ -1,3 +1,7 @@
 Course name: Data Analytics
 Payment: 39,900
+<<<<<<< HEAD
 Centre: Peelamedu 35
+=======
+Centre: Avinashi road, Cbe
+>>>>>>> atomm
